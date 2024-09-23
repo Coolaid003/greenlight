@@ -2887,10 +2887,10 @@ electron-publish@24.13.1:
     lazy-val "^1.0.5"
     mime "^2.5.2"
 
-electron-serve@^1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/electron-serve/-/electron-serve-1.3.0.tgz#94f7fbdc398d1f187f0ebeb4630b2d03acb83d59"
-  integrity sha512-OEC/48ZBJxR6XNSZtCl4cKPyQ1lvsu8yp8GdCplMWwGS1eEyMcEmzML5BRs/io/RLDnpgyf+7rSL+X6ICifRIg==
+electron-serve@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/electron-serve/-/electron-serve-2.1.1.tgz#69a59fbdaf3e11250a53bad73e8c4f4931315717"
+  integrity sha512-SJdA7bfZuPODK9BkXTZ8EPsQlzg6yNSA0H6811DQvqzyDhPP8icIACA0bIA9aWeT+gmDB7V4eMg/wZhR+ijk6w==
 
 electron-store@^8.0.1:
   version "8.1.0"
